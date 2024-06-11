@@ -79,5 +79,5 @@ Pero si deseas poner solo la ligas directas a un correo electrónico podemos uti
 
 **EJEMPLO**
 Documentación creada por **Jonathan Emmanuel López Morales**
-(<cg419370@gmail.com>)(<https://utxicotepec.edu.mx
+(<jonathanesponja33@gmail.com>)(<https://utxicotepec.edu.mx
 >)
