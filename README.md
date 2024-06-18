@@ -81,3 +81,105 @@ Pero si deseas poner solo la ligas directas a un correo electrónico podemos uti
 Documentación creada por **Jonathan Emmanuel López Morales**
 (<jonathanesponja33@gmail.com>)(<https://utxicotepec.edu.mx
 >)
+>### 8. Tablas (TABLES)
+Si la si la documentación lo requiere podemos presentar información en formato de tablas con columnas para mantenerlas podemos utilizar el carácter | para delimitar las columnas y -P de limitar las filas 
+
+**EJEMPLO:**
+
+|**Encabezado 1** | **Encabezado 2** | **Encabezado 3** | **Encabezado 4**|
+|-----------------|------------------|------------------|-----------------|
+|Fila 1 Celda 1   |  Fila 1 Celda 2  |  Fila 1 Celda 3  | Fila 1 Celda 4  |
+|Fila 2 Celda 1   |  Fila 2 Celda 2  |  Fila 2 Celda 3  | Fila 2 Celda 4  |
+|Fila 3 Celda 1   |  Fila 3 Celda 2  |  Fila 3 Celda 3  | Fila 3 Celda 4  |
+
+En caso de necesitar la funcion de celdas en cloumnas usaremos la propiedad colspan para unir las celdas y en el caso de la fusion de las filas utilizaremos la propiedad rowspan
+**EJEMPLO:**
+<table>
+  <tr>
+  <th>Encabezado1</th>
+  <th>Encabezado2</th>
+  <th>Encaberado3</th>
+  <th>Encabezado4</th>
+</tr>
+  <tr>
+    <td>file 1 celda 1</td>
+    <td>file 1 celda 2</td>
+    <td>file 1 celda 3</td>
+    <td>file 1 celda 4</td>
+  </tr>
+    <tr>
+    <td>file 2 celda 1</td>
+    <td colspan="2" >file 2 celda 2</td>
+    <td>file 2 celda 4</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>file 3 celda 2</td>
+    <td>file 3 celda 3</td>
+    <td>file 3 celda 4</td>
+  </tr>
+    <tr>
+    <td>file 4 celda 1</td>
+    <td>file 4 celda 2</td>
+    <td>file 4 celda 3</td>
+    <td>file 4 celda 4</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>file 5 celda 2</td>
+    <td>file 5 celda 3</td>
+    <td>file 5 celda 4</td>
+  </tr>
+  <tr>
+    <td>file 6 celda 1</td>
+    <td>file 6 celda 2</td>
+    <td>file 6 celda 3</td>
+    <td>file 6 celda 4</td>
+  </tr>
+</table>
+Dado que el ejemplo pasado solo utiliza Mark down no se puede realizar la función debemos utilizar el estándar html usando los tags PH para los encabezados filas y celdas y en ellos utilizar propiedades como colspan y Rowspan
+
+**EJEMPLO:**
+<table>
+  <tr>
+  <th>Encabezado1</th>
+  <th>Encabezado2</th>
+  <th>Encaberado3</th>
+  <th>Encabezado4</th>
+</tr>
+  <tr>
+    <td>file 1 celda 1</td>
+    <td>file 1 celda 2</td>
+    <td>file 1 celda 3</td>
+    <td>file 1 celda 4</td>
+  </tr>
+    <tr>
+    <td>file 2 celda 1</td>
+    <td colspan="3" align="center">file 2 celda 2</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>file 3 celda 2</td>
+    <td>file 3 celda 3</td>
+    <td>file 3 celda 4</td>
+  </tr>
+    <tr>
+    <td>file 4 celda 1</td>
+    <td>file 4 celda 2</td>
+    <td>file 4 celda 3</td>
+    <td>file 4 celda 4</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>file 5 celda 2</td>
+    <td>file 5 celda 3</td>
+    <td>file 5 celda 4</td>
+  </tr>
+  <tr>
+    <td>file 6 celda 1</td>
+    <td>file 6 celda 2</td>
+    <td>file 6 celda 3</td>
+    <td>file 6 celda 4</td>
+  </tr>
+</table>
+
