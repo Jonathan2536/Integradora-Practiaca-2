@@ -182,4 +182,13 @@ Dado que el ejemplo pasado solo utiliza Mark down no se puede realizar la funci√
     <td>file 6 celda 4</td>
   </tr>
 </table>
+### 9. logos de la empresa
+son las imagenes de los logos para la empresa para el proyecto de integracion 
+
+Logo de las playeras de los inspectores:
+![](https://github.com/EMATIAS230045/Integradora-Practica-2/blob/main/logo1.jpg) <br></br><br></br>
+Logo del icono de perfil:
+![](https://github.com/EMATIAS230045/Integradora-Practica-2/blob/main/logo2.jpg)<br></br><br></br>
+Logo del icono de bitacora:
+![](https://github.com/EMATIAS230045/Integradora-Practica-2/blob/main/logo3.jpg)<br></br><br></br>
 
