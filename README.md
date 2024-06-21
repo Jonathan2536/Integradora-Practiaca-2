@@ -117,7 +117,7 @@ Y si deseamos utilizar viñetas para enlistar pasos podemos utilizar el carácte
 
 **EJEMPLO:**
 
-*PASOS PARA ENLISTAR LA BASE DE DATOS*
+### PASOS PARA ENLISTAR LA BASE DE DATOS
 
 >- Descargar MySQL Server del Sitio Oficial 
 >- Instalar el Sistema Gestor de Base de Datos definiendo el puesto y la contraseña para el usuario **root**
@@ -125,7 +125,7 @@ Y si deseamos utilizar viñetas para enlistar pasos podemos utilizar el carácte
 >- Restauremos la Base de Datos usando el comando Mysql 
 >- C:ProgramFiles/MySQL/MYSQLServer8.0/bin/mysql-u root -p password < respaldo sql
 
-*6. Listas ordenadas y Desordenadas*
+### 6. Listas ordenadas y Desordenadas
 
 Si en nuestra documentación necesitamos incluir información de texto en modo de lista, un elemento tras otro podemos hacerlo utilizando los números con un punto decimal
 si las deseamos ordenadas o en un guion en medio  - si solo queremos una viñeta
@@ -164,7 +164,7 @@ Pero si deseas poner solo la ligas directas a un correo electrónico podemos uti
 Documentación creada por **Jonathan Emmanuel López Morales**
 (<jonathanesponja33@gmail.com>)(<https://utxicotepec.edu.mx
 >)
->### 8. Tablas (TABLES)
+### 8. Tablas (TABLES)
 Si la si la documentación lo requiere podemos presentar información en formato de tablas con columnas para mantenerlas podemos utilizar el carácter | para delimitar las columnas y -P de limitar las filas 
 
 **EJEMPLO:**
@@ -265,7 +265,7 @@ Dado que el ejemplo pasado solo utiliza Mark down no se puede realizar la funci�
     <td>file 6 celda 4</td>
   </tr>
 </table>
-### 9. logos de la empresa
+### 8. Logos
 son las imagenes de los logos para la empresa para el proyecto de integracion 
 
 Logo de las playeras de los inspectores:
