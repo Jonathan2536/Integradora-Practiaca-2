@@ -133,23 +133,23 @@ si las deseamos ordenadas o en un guion en medio  - si solo queremos una viñeta
 **Ejemplo:**
 Para poder crear tu primero repositorio en GitHub deveras;
 
-1. Contar con una cuenta de GitHub
+ 1. Contar con una cuenta de GitHub
 
-2.Dar clic en *nuevo repositorio
+ 2. Dar clic en *nuevo repositorio
 
-3- Asignarle un nombre a tu repositorio, por ejemplo: 'practica03-3b'
+ 3. Asignarle un nombre a tu repositorio, por ejemplo: 'practica03-3b'
 
-4.Asignarle un nivel de privacidad
+ 4. Asignarle un nivel de privacidad
 
 -**PUBLICO:** SI quieres que este disponible para todos lo usuarios
 
 -**PRIVADO:** Si deseas que a solo decidas pueden colaborar en tu proyecto
 
-10. Definir si incluye un archivo de descripción llamado: RAEDME.md
+10 . Definir si incluye un archivo de descripción llamado: RAEDME.md
 
-11. Definir si habrá exculciones de archivo atravez del archivo : gitignore
+11 . Definir si habrá exculciones de archivo atravez del archivo : gitignore
 
-12. Guardar cambios 
+12 . Guardar cambios 
 
 ### 7. Ligas (Hipervinculos)
 
