@@ -14,7 +14,7 @@ Para poder dar enfasis  a lo componetes de la documentacion podemos utilizar lo 
   ### 2. Separadores (SEPARATORS)  -PRÁCTICA 03
 Si desea marcar una separación más visual de contenidos podemos utilizarlos indicando tres caracteres de "-" continuos, en el maquetado.
 
-EJEMPLO:
+**Ejemplo:**
 
 ---
 
@@ -23,7 +23,7 @@ Esto es similar a un tag de <HR> en HTML.
 
 Son utilizados para presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.
 
-EJEMPLO:
+**Ejemplo:**
 
 Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.
 Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.Este texto pertenece al párrafo 1.
@@ -69,7 +69,7 @@ Si el texto que deseamos enfatizar se encuentra de un párrafo , podemos utiliza
 ##### Texto en Negrita (BOLD)
 Para poder poner el texto en negrita , este deberá ser encerrado entre dobles * *
 
-EJEMPLO:
+**Ejemplo:**
 
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 
@@ -85,15 +85,14 @@ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *T
 
 De igual manera podemos unir ambos estilos **Negrita** y *Cursiva* para resaltar los textos que consideremos importantes dentro de la documentación de nuestros proyectos de software, utilizando un triple * (asterisco).
 
-EJEMPLO:
-
+**Ejemplo:**
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto en Negrita y Cursiva*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 
 ##### Subrayado (UNDERLINE)
 
 Algubas veces necesitaremos subrayar texto dentro de la documentación, para ello, si bien Markdown no tiene un atajo o codificación rápida podemos utilizar el estilo estándar de HTML usando el tag <ins> y cerrando con </ins>
 
-EJEMPLO:
+**Ejemplo:**
 
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins> Texto Subrayado</ins>Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 
@@ -131,8 +130,7 @@ Y si deseamos utilizar viñetas para enlistar pasos podemos utilizar el carácte
 Si en nuestra documentación necesitamos incluir información de texto en modo de lista, un elemento tras otro podemos hacerlo utilizando los números con un punto decimal
 si las deseamos ordenadas o en un guion en medio  - si solo queremos una viñeta
 
-*EJEMPLO*
-
+**Ejemplo:**
 Para poder crear tu primero repositorio en GitHub deveras;
 
 1. Contar con una cuenta de GitHub
